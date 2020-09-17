@@ -1,0 +1,679 @@
+2020-09-17 10:12:22.811  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 15840 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 10:12:22.817  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 10:12:23.376  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-09-17 10:12:23.394  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:12:23.395  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-09-17 10:12:23.395  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 10:12:23.564  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.j.s.TldScanner                       : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-09-17 10:12:23.572  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.C.[.[.[/test]                    : Initializing Spring embedded WebApplicationContext
+2020-09-17 10:12:23.573  INFO LAPTOP-GTLK6Q6C --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 727 ms
+2020-09-17 10:12:23.684  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:12:23.774  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:12:23.800  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path '/test'
+2020-09-17 10:12:23.807  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Started DemoApplication in 1.184 seconds (JVM running for 1.914)
+2020-09-17 10:12:23.809  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Info log
+2020-09-17 10:12:23.809  WARN LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Hey, This is a warning!
+2020-09-17 10:12:23.809 ERROR LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Oops! We have an Error. OK
+2020-09-17 10:12:23.809 FATAL LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Damn! Fatal error. Please fix me.
+2020-09-17 10:15:22.584  INFO LAPTOP-GTLK6Q6C --- [n(11)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-17 10:15:22.625  INFO LAPTOP-GTLK6Q6C --- [n(11)-127.0.0.1] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:15:39.824  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 11656 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 10:15:39.830  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 10:15:40.370  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-09-17 10:15:40.381  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:15:40.382  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-09-17 10:15:40.382  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 10:15:40.545  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.j.s.TldScanner                       : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-09-17 10:15:40.553  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.C.[.[.[/test]                    : Initializing Spring embedded WebApplicationContext
+2020-09-17 10:15:40.553  INFO LAPTOP-GTLK6Q6C --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 694 ms
+2020-09-17 10:15:40.665  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:15:40.756  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:15:40.782  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path '/test'
+2020-09-17 10:15:40.789  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Started DemoApplication in 1.159 seconds (JVM running for 1.857)
+2020-09-17 10:15:40.790  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Info log
+2020-09-17 10:15:40.791  WARN LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Hey, This is a warning!
+2020-09-17 10:15:40.791 ERROR LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Oops! We have an Error. OK
+2020-09-17 10:15:40.791 FATAL LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Damn! Fatal error. Please fix me.
+2020-09-17 10:22:24.751  INFO LAPTOP-GTLK6Q6C --- [n(11)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-17 10:22:24.787  INFO LAPTOP-GTLK6Q6C --- [n(11)-127.0.0.1] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:22:31.374  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 15640 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 10:22:31.380  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 10:22:31.921  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-09-17 10:22:31.932  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:22:31.932  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-09-17 10:22:31.933  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 10:22:32.097  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.j.s.TldScanner                       : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-09-17 10:22:32.105  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.C.[.[.[/test]                    : Initializing Spring embedded WebApplicationContext
+2020-09-17 10:22:32.105  INFO LAPTOP-GTLK6Q6C --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 697 ms
+2020-09-17 10:22:32.217  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:22:32.309  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:22:32.335  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path '/test'
+2020-09-17 10:22:32.343  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Started DemoApplication in 1.153 seconds (JVM running for 1.785)
+2020-09-17 10:22:32.344  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Info log
+2020-09-17 10:22:32.344  WARN LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Hey, This is a warning!
+2020-09-17 10:22:32.345 ERROR LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Oops! We have an Error. OK
+2020-09-17 10:22:32.345 FATAL LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Damn! Fatal error. Please fix me.
+2020-09-17 10:31:44.070  INFO LAPTOP-GTLK6Q6C --- [n(18)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-17 10:31:44.100  INFO LAPTOP-GTLK6Q6C --- [n(18)-127.0.0.1] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:34:34.430  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 14832 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 10:34:34.437  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 10:34:35.024  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-09-17 10:34:35.035  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:34:35.035  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-09-17 10:34:35.036  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 10:34:35.206  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.j.s.TldScanner                       : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-09-17 10:34:35.213  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.C.[.[.[/test]                    : Initializing Spring embedded WebApplicationContext
+2020-09-17 10:34:35.214  INFO LAPTOP-GTLK6Q6C --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 749 ms
+2020-09-17 10:34:35.324  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:34:35.411  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:34:35.436  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path '/test'
+2020-09-17 10:34:35.443  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Started DemoApplication in 1.198 seconds (JVM running for 1.844)
+2020-09-17 10:38:59.126  INFO LAPTOP-GTLK6Q6C --- [n(14)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-17 10:38:59.159  INFO LAPTOP-GTLK6Q6C --- [n(14)-127.0.0.1] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:39:02.107  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 18260 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 10:39:02.113  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 10:39:02.781  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-09-17 10:39:02.792  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:39:02.793  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-09-17 10:39:02.793  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 10:39:02.962  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.j.s.TldScanner                       : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-09-17 10:39:02.970  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.C.[.[.[/test]                    : Initializing Spring embedded WebApplicationContext
+2020-09-17 10:39:02.970  INFO LAPTOP-GTLK6Q6C --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 822 ms
+2020-09-17 10:39:03.079  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:39:03.175  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:39:03.201  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path '/test'
+2020-09-17 10:39:03.208  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Started DemoApplication in 1.309 seconds (JVM running for 1.986)
+2020-09-17 10:45:39.285  INFO LAPTOP-GTLK6Q6C --- [n(16)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-17 10:45:39.319  INFO LAPTOP-GTLK6Q6C --- [n(16)-127.0.0.1] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:45:42.481  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 3680 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 10:45:42.487  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 10:45:43.026  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-09-17 10:45:43.036  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:45:43.037  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-09-17 10:45:43.037  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 10:45:43.199  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.j.s.TldScanner                       : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-09-17 10:45:43.207  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.C.[.[.[/test]                    : Initializing Spring embedded WebApplicationContext
+2020-09-17 10:45:43.207  INFO LAPTOP-GTLK6Q6C --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 690 ms
+2020-09-17 10:45:43.313  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:45:43.410  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:45:43.436  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path '/test'
+2020-09-17 10:45:43.444  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Started DemoApplication in 1.154 seconds (JVM running for 1.809)
+2020-09-17 10:45:43.458  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 3680 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 10:45:43.459  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 10:45:43.465  WARN LAPTOP-GTLK6Q6C --- [           main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server; nested exception is org.springframework.context.ApplicationContextException: Unable to start ServletWebServerApplicationContext due to missing ServletWebServerFactory bean.
+2020-09-17 10:45:43.472 ERROR LAPTOP-GTLK6Q6C --- [           main] o.s.b.SpringApplication                  : Application run failed
+org.springframework.context.ApplicationContextException: Unable to start web server; nested exception is org.springframework.context.ApplicationContextException: Unable to start ServletWebServerApplicationContext due to missing ServletWebServerFactory bean.
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:161)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:545)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.example.demo.DemoApplication.main(DemoApplication.java:11)
+Caused by: org.springframework.context.ApplicationContextException: Unable to start ServletWebServerApplicationContext due to missing ServletWebServerFactory bean.
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.getWebServerFactory(ServletWebServerApplicationContext.java:205)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:177)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:158)
+	... 9 more
+2020-09-17 10:46:51.754  INFO LAPTOP-GTLK6Q6C --- [on(9)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-17 10:46:51.784  INFO LAPTOP-GTLK6Q6C --- [on(9)-127.0.0.1] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:46:56.540  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 4632 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 10:46:56.546  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 10:46:57.096  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-09-17 10:46:57.107  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:46:57.109  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-09-17 10:46:57.109  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 10:46:57.273  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.j.s.TldScanner                       : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-09-17 10:46:57.283  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.C.[.[.[/test]                    : Initializing Spring embedded WebApplicationContext
+2020-09-17 10:46:57.283  INFO LAPTOP-GTLK6Q6C --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 708 ms
+2020-09-17 10:46:57.393  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:46:57.484  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:46:57.511  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path '/test'
+2020-09-17 10:46:57.518  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Started DemoApplication in 1.168 seconds (JVM running for 1.827)
+2020-09-17 10:46:57.535  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 4632 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 10:46:57.536  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 10:46:57.542  WARN LAPTOP-GTLK6Q6C --- [           main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server; nested exception is org.springframework.context.ApplicationContextException: Unable to start ServletWebServerApplicationContext due to missing ServletWebServerFactory bean.
+2020-09-17 10:46:57.549 ERROR LAPTOP-GTLK6Q6C --- [           main] o.s.b.SpringApplication                  : Application run failed
+org.springframework.context.ApplicationContextException: Unable to start web server; nested exception is org.springframework.context.ApplicationContextException: Unable to start ServletWebServerApplicationContext due to missing ServletWebServerFactory bean.
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:161)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:545)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.example.demo.DemoApplication.main(DemoApplication.java:11)
+Caused by: org.springframework.context.ApplicationContextException: Unable to start ServletWebServerApplicationContext due to missing ServletWebServerFactory bean.
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.getWebServerFactory(ServletWebServerApplicationContext.java:205)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:177)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:158)
+	... 9 more
+2020-09-17 10:47:28.436  INFO LAPTOP-GTLK6Q6C --- [n(10)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-17 10:47:28.470  INFO LAPTOP-GTLK6Q6C --- [n(10)-127.0.0.1] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:47:30.971  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 12688 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 10:47:30.980  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 10:47:31.563  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-09-17 10:47:31.573  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:47:31.574  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-09-17 10:47:31.574  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 10:47:31.747  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.j.s.TldScanner                       : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-09-17 10:47:31.755  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.C.[.[.[/test]                    : Initializing Spring embedded WebApplicationContext
+2020-09-17 10:47:31.755  INFO LAPTOP-GTLK6Q6C --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 734 ms
+2020-09-17 10:47:31.862  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:47:31.955  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:47:31.980  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path '/test'
+2020-09-17 10:47:31.987  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Started DemoApplication in 1.282 seconds (JVM running for 1.919)
+2020-09-17 10:47:32.003  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 12688 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 10:47:32.004  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 10:47:32.010  WARN LAPTOP-GTLK6Q6C --- [           main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Unable to start web server; nested exception is org.springframework.context.ApplicationContextException: Unable to start ServletWebServerApplicationContext due to missing ServletWebServerFactory bean.
+2020-09-17 10:47:32.017 ERROR LAPTOP-GTLK6Q6C --- [           main] o.s.b.SpringApplication                  : Application run failed
+org.springframework.context.ApplicationContextException: Unable to start web server; nested exception is org.springframework.context.ApplicationContextException: Unable to start ServletWebServerApplicationContext due to missing ServletWebServerFactory bean.
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:161)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:545)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.example.demo.DemoApplication.main(DemoApplication.java:11)
+Caused by: org.springframework.context.ApplicationContextException: Unable to start ServletWebServerApplicationContext due to missing ServletWebServerFactory bean.
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.getWebServerFactory(ServletWebServerApplicationContext.java:205)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.createWebServer(ServletWebServerApplicationContext.java:177)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.onRefresh(ServletWebServerApplicationContext.java:158)
+	... 9 more
+2020-09-17 10:49:30.525  INFO LAPTOP-GTLK6Q6C --- [n(11)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-17 10:49:30.559  INFO LAPTOP-GTLK6Q6C --- [n(11)-127.0.0.1] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:49:36.378  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 4052 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 10:49:36.384  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 10:49:36.943  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-09-17 10:49:36.953  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:49:36.954  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-09-17 10:49:36.954  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 10:49:37.129  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.j.s.TldScanner                       : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-09-17 10:49:37.137  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.C.[.[.[/test]                    : Initializing Spring embedded WebApplicationContext
+2020-09-17 10:49:37.137  INFO LAPTOP-GTLK6Q6C --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 723 ms
+2020-09-17 10:49:37.241  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:49:37.339  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:49:37.365  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path '/test'
+2020-09-17 10:49:37.373  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Started DemoApplication in 1.18 seconds (JVM running for 1.851)
+2020-09-17 10:49:37.374  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.LoggerKontroller                   : Info log
+2020-09-17 10:49:37.375  WARN LAPTOP-GTLK6Q6C --- [           main] c.e.d.LoggerKontroller                   : Hey, This is a warning!
+2020-09-17 10:49:37.375 ERROR LAPTOP-GTLK6Q6C --- [           main] c.e.d.LoggerKontroller                   : Oops! We have an Error. OK
+2020-09-17 10:49:37.375 FATAL LAPTOP-GTLK6Q6C --- [           main] c.e.d.LoggerKontroller                   : Damn! Fatal error. Please fix me.
+2020-09-17 10:49:37.388  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 4052 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 10:49:37.389  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 10:49:37.496  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-09-17 10:49:37.497  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:49:37.497  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-09-17 10:49:37.498  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 10:49:37.555  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.j.s.TldScanner                       : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-09-17 10:49:37.558  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.C.[.[.[/test]                    : Initializing Spring embedded WebApplicationContext
+2020-09-17 10:49:37.558  INFO LAPTOP-GTLK6Q6C --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 167 ms
+2020-09-17 10:49:37.585  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:49:37.607  WARN LAPTOP-GTLK6Q6C --- [           main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'springApplicationAdminRegistrar' defined in class path resource [org/springframework/boot/autoconfigure/admin/SpringApplicationAdminJmxAutoConfiguration.class]: Invocation of init method failed; nested exception is javax.management.InstanceAlreadyExistsException: org.springframework.boot:type=Admin,name=SpringApplication
+2020-09-17 10:49:37.610  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:49:37.612  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Stopping service [Tomcat]
+2020-09-17 10:49:37.621  INFO LAPTOP-GTLK6Q6C --- [           main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-09-17 10:49:37.626 ERROR LAPTOP-GTLK6Q6C --- [           main] o.s.b.SpringApplication                  : Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'springApplicationAdminRegistrar' defined in class path resource [org/springframework/boot/autoconfigure/admin/SpringApplicationAdminJmxAutoConfiguration.class]: Invocation of init method failed; nested exception is javax.management.InstanceAlreadyExistsException: org.springframework.boot:type=Admin,name=SpringApplication
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1794)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:594)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.example.demo.DemoApplication.main(DemoApplication.java:11)
+Caused by: javax.management.InstanceAlreadyExistsException: org.springframework.boot:type=Admin,name=SpringApplication
+	at java.management/com.sun.jmx.mbeanserver.Repository.addMBean(Repository.java:436)
+	at java.management/com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerWithRepository(DefaultMBeanServerInterceptor.java:1855)
+	at java.management/com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerDynamicMBean(DefaultMBeanServerInterceptor.java:955)
+	at java.management/com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerObject(DefaultMBeanServerInterceptor.java:890)
+	at java.management/com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerMBean(DefaultMBeanServerInterceptor.java:320)
+	at java.management/com.sun.jmx.mbeanserver.JmxMBeanServer.registerMBean(JmxMBeanServer.java:522)
+	at org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar.afterPropertiesSet(SpringApplicationAdminMXBeanRegistrar.java:129)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1853)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1790)
+	... 17 more
+2020-09-17 10:51:08.013  INFO LAPTOP-GTLK6Q6C --- [n(12)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-17 10:51:08.040  INFO LAPTOP-GTLK6Q6C --- [n(12)-127.0.0.1] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:51:18.461  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 17524 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 10:51:18.467  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 10:51:19.013  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-09-17 10:51:19.024  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:51:19.025  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-09-17 10:51:19.025  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 10:51:19.192  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.j.s.TldScanner                       : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-09-17 10:51:19.201  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.C.[.[.[/test]                    : Initializing Spring embedded WebApplicationContext
+2020-09-17 10:51:19.201  INFO LAPTOP-GTLK6Q6C --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 705 ms
+2020-09-17 10:51:19.311  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:51:19.401  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:51:19.427  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path '/test'
+2020-09-17 10:51:19.435  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Started DemoApplication in 1.159 seconds (JVM running for 1.806)
+2020-09-17 10:51:19.436  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.LoggerKontroller                   : Info log
+2020-09-17 10:51:19.436  WARN LAPTOP-GTLK6Q6C --- [           main] c.e.d.LoggerKontroller                   : Hey, This is a warning!
+2020-09-17 10:51:19.437 ERROR LAPTOP-GTLK6Q6C --- [           main] c.e.d.LoggerKontroller                   : Oops! We have an Error. OK
+2020-09-17 10:51:19.437 FATAL LAPTOP-GTLK6Q6C --- [           main] c.e.d.LoggerKontroller                   : Damn! Fatal error. Please fix me.
+2020-09-17 10:51:19.450  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 17524 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 10:51:19.451  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 10:51:19.570  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-09-17 10:51:19.571  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:51:19.572  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-09-17 10:51:19.572  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 10:51:19.642  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.j.s.TldScanner                       : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-09-17 10:51:19.645  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.C.[.[.[/test]                    : Initializing Spring embedded WebApplicationContext
+2020-09-17 10:51:19.646  INFO LAPTOP-GTLK6Q6C --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 193 ms
+2020-09-17 10:51:19.679  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:51:19.700  WARN LAPTOP-GTLK6Q6C --- [           main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'springApplicationAdminRegistrar' defined in class path resource [org/springframework/boot/autoconfigure/admin/SpringApplicationAdminJmxAutoConfiguration.class]: Invocation of init method failed; nested exception is javax.management.InstanceAlreadyExistsException: org.springframework.boot:type=Admin,name=SpringApplication
+2020-09-17 10:51:19.701  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:51:19.702  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Stopping service [Tomcat]
+2020-09-17 10:51:19.710  INFO LAPTOP-GTLK6Q6C --- [           main] ConditionEvaluationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-09-17 10:51:19.718 ERROR LAPTOP-GTLK6Q6C --- [           main] o.s.b.SpringApplication                  : Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'springApplicationAdminRegistrar' defined in class path resource [org/springframework/boot/autoconfigure/admin/SpringApplicationAdminJmxAutoConfiguration.class]: Invocation of init method failed; nested exception is javax.management.InstanceAlreadyExistsException: org.springframework.boot:type=Admin,name=SpringApplication
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1794)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:594)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.example.demo.DemoApplication.main(DemoApplication.java:11)
+Caused by: javax.management.InstanceAlreadyExistsException: org.springframework.boot:type=Admin,name=SpringApplication
+	at java.management/com.sun.jmx.mbeanserver.Repository.addMBean(Repository.java:436)
+	at java.management/com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerWithRepository(DefaultMBeanServerInterceptor.java:1855)
+	at java.management/com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerDynamicMBean(DefaultMBeanServerInterceptor.java:955)
+	at java.management/com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerObject(DefaultMBeanServerInterceptor.java:890)
+	at java.management/com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerMBean(DefaultMBeanServerInterceptor.java:320)
+	at java.management/com.sun.jmx.mbeanserver.JmxMBeanServer.registerMBean(JmxMBeanServer.java:522)
+	at org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar.afterPropertiesSet(SpringApplicationAdminMXBeanRegistrar.java:129)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1853)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1790)
+	... 17 more
+2020-09-17 10:54:21.216  INFO LAPTOP-GTLK6Q6C --- [n(11)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-17 10:54:21.246  INFO LAPTOP-GTLK6Q6C --- [n(11)-127.0.0.1] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:56:03.725  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 16592 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 10:56:03.732  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 10:56:04.295  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-09-17 10:56:04.306  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:56:04.306  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-09-17 10:56:04.307  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 10:56:04.472  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.j.s.TldScanner                       : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-09-17 10:56:04.480  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.C.[.[.[/test]                    : Initializing Spring embedded WebApplicationContext
+2020-09-17 10:56:04.481  INFO LAPTOP-GTLK6Q6C --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 720 ms
+2020-09-17 10:56:04.600  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:56:04.718  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:56:04.747  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path '/test'
+2020-09-17 10:56:04.756  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Started DemoApplication in 1.223 seconds (JVM running for 1.896)
+2020-09-17 10:56:04.757  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Info log
+2020-09-17 10:56:04.757  WARN LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Hey, This is a warning!
+2020-09-17 10:56:04.757 ERROR LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Oops! We have an Error. OK
+2020-09-17 10:56:04.758 FATAL LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Damn! Fatal error. Please fix me.
+2020-09-17 10:57:03.241  INFO LAPTOP-GTLK6Q6C --- [on(9)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-17 10:57:03.272  INFO LAPTOP-GTLK6Q6C --- [on(9)-127.0.0.1] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:57:43.334  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 6680 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 10:57:43.340  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 10:57:43.893  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-09-17 10:57:43.904  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:57:43.905  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-09-17 10:57:43.905  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 10:57:44.074  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.j.s.TldScanner                       : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-09-17 10:57:44.082  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.C.[.[.[/test]                    : Initializing Spring embedded WebApplicationContext
+2020-09-17 10:57:44.082  INFO LAPTOP-GTLK6Q6C --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 713 ms
+2020-09-17 10:57:44.196  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:57:44.286  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:57:44.315  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path '/test'
+2020-09-17 10:57:44.323  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Started DemoApplication in 1.172 seconds (JVM running for 1.839)
+2020-09-17 10:57:44.325  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Info log
+2020-09-17 10:57:44.325  WARN LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Hey, This is a warning!
+2020-09-17 10:57:44.325 ERROR LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Oops! We have an Error. OK
+2020-09-17 10:57:44.325 FATAL LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Damn! Fatal error. Please fix me.
+2020-09-17 10:57:44.326  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Info log
+2020-09-17 10:58:21.215  INFO LAPTOP-GTLK6Q6C --- [on(8)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-17 10:58:21.246  INFO LAPTOP-GTLK6Q6C --- [on(8)-127.0.0.1] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:58:23.912  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 13804 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 10:58:23.923  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 10:58:24.545  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-09-17 10:58:24.556  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:58:24.556  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-09-17 10:58:24.557  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 10:58:24.718  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.j.s.TldScanner                       : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-09-17 10:58:24.725  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.C.[.[.[/test]                    : Initializing Spring embedded WebApplicationContext
+2020-09-17 10:58:24.726  INFO LAPTOP-GTLK6Q6C --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 753 ms
+2020-09-17 10:58:24.833  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:58:24.927  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:58:24.952  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path '/test'
+2020-09-17 10:58:24.959  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Started DemoApplication in 1.32 seconds (JVM running for 1.973)
+2020-09-17 10:58:24.961  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Info log
+2020-09-17 10:59:12.823  INFO LAPTOP-GTLK6Q6C --- [on(9)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-17 10:59:12.853  INFO LAPTOP-GTLK6Q6C --- [on(9)-127.0.0.1] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:59:16.095  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 14572 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 10:59:16.101  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 10:59:16.640  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-09-17 10:59:16.651  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:59:16.651  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-09-17 10:59:16.652  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 10:59:16.809  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.j.s.TldScanner                       : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-09-17 10:59:16.818  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.C.[.[.[/test]                    : Initializing Spring embedded WebApplicationContext
+2020-09-17 10:59:16.819  INFO LAPTOP-GTLK6Q6C --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 689 ms
+2020-09-17 10:59:16.933  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:59:17.038  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:59:17.064  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path '/test'
+2020-09-17 10:59:17.071  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Started DemoApplication in 1.159 seconds (JVM running for 1.8)
+2020-09-17 10:59:17.073  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Info log
+2020-09-17 10:59:21.094  INFO LAPTOP-GTLK6Q6C --- [on(8)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-17 10:59:21.125  INFO LAPTOP-GTLK6Q6C --- [on(8)-127.0.0.1] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:59:24.249  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 15280 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 10:59:24.255  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 10:59:24.795  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-09-17 10:59:24.806  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:59:24.807  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-09-17 10:59:24.807  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 10:59:24.969  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.j.s.TldScanner                       : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-09-17 10:59:24.977  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.C.[.[.[/test]                    : Initializing Spring embedded WebApplicationContext
+2020-09-17 10:59:24.977  INFO LAPTOP-GTLK6Q6C --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 692 ms
+2020-09-17 10:59:25.086  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:59:25.173  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:59:25.200  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path '/test'
+2020-09-17 10:59:25.207  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Started DemoApplication in 1.148 seconds (JVM running for 1.804)
+2020-09-17 10:59:25.209  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Info log
+2020-09-17 10:59:27.086  INFO LAPTOP-GTLK6Q6C --- [on(8)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-17 10:59:27.119  INFO LAPTOP-GTLK6Q6C --- [on(8)-127.0.0.1] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:59:30.029  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 764 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 10:59:30.036  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 10:59:30.580  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-09-17 10:59:30.591  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:59:30.592  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-09-17 10:59:30.593  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 10:59:30.758  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.j.s.TldScanner                       : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-09-17 10:59:30.767  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.C.[.[.[/test]                    : Initializing Spring embedded WebApplicationContext
+2020-09-17 10:59:30.767  INFO LAPTOP-GTLK6Q6C --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 701 ms
+2020-09-17 10:59:30.878  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:59:30.965  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:59:30.991  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path '/test'
+2020-09-17 10:59:30.998  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Started DemoApplication in 1.163 seconds (JVM running for 1.797)
+2020-09-17 10:59:31.001  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Info log
+2020-09-17 10:59:33.157  INFO LAPTOP-GTLK6Q6C --- [on(8)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-17 10:59:33.193  INFO LAPTOP-GTLK6Q6C --- [on(8)-127.0.0.1] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:59:37.793  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 17096 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 10:59:37.799  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 10:59:38.338  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-09-17 10:59:38.350  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:59:38.351  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-09-17 10:59:38.351  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 10:59:38.531  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.j.s.TldScanner                       : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-09-17 10:59:38.540  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.C.[.[.[/test]                    : Initializing Spring embedded WebApplicationContext
+2020-09-17 10:59:38.540  INFO LAPTOP-GTLK6Q6C --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 712 ms
+2020-09-17 10:59:38.654  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:59:38.745  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:59:38.773  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path '/test'
+2020-09-17 10:59:38.782  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Started DemoApplication in 1.183 seconds (JVM running for 1.825)
+2020-09-17 10:59:38.785  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Info log
+2020-09-17 10:59:42.365  INFO LAPTOP-GTLK6Q6C --- [on(6)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-17 10:59:42.397  INFO LAPTOP-GTLK6Q6C --- [on(6)-127.0.0.1] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:59:45.227  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 16012 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 10:59:45.233  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 10:59:45.762  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-09-17 10:59:45.772  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:59:45.773  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-09-17 10:59:45.773  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 10:59:45.939  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.j.s.TldScanner                       : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-09-17 10:59:45.946  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.C.[.[.[/test]                    : Initializing Spring embedded WebApplicationContext
+2020-09-17 10:59:45.947  INFO LAPTOP-GTLK6Q6C --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 684 ms
+2020-09-17 10:59:46.050  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 10:59:46.137  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 10:59:46.166  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path '/test'
+2020-09-17 10:59:46.174  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Started DemoApplication in 1.13 seconds (JVM running for 1.791)
+2020-09-17 10:59:46.176  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Info log
+2020-09-17 11:10:29.968  INFO LAPTOP-GTLK6Q6C --- [nio-8080-exec-1] o.a.c.c.C.[.[.[/test]                    : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-17 11:10:29.969  INFO LAPTOP-GTLK6Q6C --- [nio-8080-exec-1] o.s.w.s.DispatcherServlet                : Initializing Servlet 'dispatcherServlet'
+2020-09-17 11:10:29.974  INFO LAPTOP-GTLK6Q6C --- [nio-8080-exec-1] o.s.w.s.DispatcherServlet                : Completed initialization in 5 ms
+2020-09-17 14:06:25.620  INFO LAPTOP-GTLK6Q6C --- [n(43)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-17 14:06:25.653  INFO LAPTOP-GTLK6Q6C --- [n(43)-127.0.0.1] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 14:20:23.161  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 6508 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 14:20:23.168  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 14:20:23.734  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-09-17 14:20:23.745  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 14:20:23.745  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-09-17 14:20:23.746  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 14:20:23.920  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.j.s.TldScanner                       : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-09-17 14:20:23.928  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.C.[.[.[/test]                    : Initializing Spring embedded WebApplicationContext
+2020-09-17 14:20:23.929  INFO LAPTOP-GTLK6Q6C --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 728 ms
+2020-09-17 14:20:24.044  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 14:20:24.134  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 14:20:24.160  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path '/test'
+2020-09-17 14:20:24.168  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Started DemoApplication in 1.205 seconds (JVM running for 1.881)
+2020-09-17 14:20:24.170  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Info log
+2020-09-17 14:20:29.203  INFO LAPTOP-GTLK6Q6C --- [nio-8080-exec-1] o.a.c.c.C.[.[.[/test]                    : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-17 14:20:29.204  INFO LAPTOP-GTLK6Q6C --- [nio-8080-exec-1] o.s.w.s.DispatcherServlet                : Initializing Servlet 'dispatcherServlet'
+2020-09-17 14:20:29.209  INFO LAPTOP-GTLK6Q6C --- [nio-8080-exec-1] o.s.w.s.DispatcherServlet                : Completed initialization in 4 ms
+2020-09-17 14:20:50.537  INFO LAPTOP-GTLK6Q6C --- [on(6)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-17 14:20:50.569  INFO LAPTOP-GTLK6Q6C --- [on(6)-127.0.0.1] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 14:24:39.726  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 11460 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 14:24:39.732  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 14:24:40.328  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-09-17 14:24:40.339  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 14:24:40.339  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-09-17 14:24:40.340  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 14:24:40.519  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.j.s.TldScanner                       : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-09-17 14:24:40.528  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.C.[.[.[/test]                    : Initializing Spring embedded WebApplicationContext
+2020-09-17 14:24:40.528  INFO LAPTOP-GTLK6Q6C --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 764 ms
+2020-09-17 14:24:40.644  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 14:24:40.739  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 14:24:40.765  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path '/test'
+2020-09-17 14:24:40.774  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Started DemoApplication in 1.236 seconds (JVM running for 1.894)
+2020-09-17 14:24:40.777  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Info log
+2020-09-17 14:24:40.862  INFO LAPTOP-GTLK6Q6C --- [nio-8080-exec-2] o.a.c.c.C.[.[.[/test]                    : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-17 14:24:40.862  INFO LAPTOP-GTLK6Q6C --- [nio-8080-exec-2] o.s.w.s.DispatcherServlet                : Initializing Servlet 'dispatcherServlet'
+2020-09-17 14:24:40.866  INFO LAPTOP-GTLK6Q6C --- [nio-8080-exec-2] o.s.w.s.DispatcherServlet                : Completed initialization in 4 ms
+2020-09-17 14:29:14.517  INFO LAPTOP-GTLK6Q6C --- [n(14)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-17 14:29:14.548  INFO LAPTOP-GTLK6Q6C --- [n(14)-127.0.0.1] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 14:29:18.077  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 7692 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 14:29:18.083  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 14:29:18.629  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-09-17 14:29:18.639  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 14:29:18.640  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-09-17 14:29:18.641  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 14:29:18.812  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.j.s.TldScanner                       : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-09-17 14:29:18.820  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.C.[.[.[/test]                    : Initializing Spring embedded WebApplicationContext
+2020-09-17 14:29:18.820  INFO LAPTOP-GTLK6Q6C --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 707 ms
+2020-09-17 14:29:18.930  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 14:29:19.025  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 14:29:19.050  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path '/test'
+2020-09-17 14:29:19.059  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Started DemoApplication in 1.172 seconds (JVM running for 1.845)
+2020-09-17 14:29:19.061  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Info log
+2020-09-17 14:30:18.073  INFO LAPTOP-GTLK6Q6C --- [on(9)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-17 14:30:18.106  INFO LAPTOP-GTLK6Q6C --- [on(9)-127.0.0.1] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 14:30:24.630  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 19616 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 14:30:24.636  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 14:30:25.187  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-09-17 14:30:25.197  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 14:30:25.198  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-09-17 14:30:25.198  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 14:30:25.365  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.j.s.TldScanner                       : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-09-17 14:30:25.374  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.C.[.[.[/test]                    : Initializing Spring embedded WebApplicationContext
+2020-09-17 14:30:25.374  INFO LAPTOP-GTLK6Q6C --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 709 ms
+2020-09-17 14:30:25.488  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 14:30:25.579  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 14:30:25.608  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path '/test'
+2020-09-17 14:30:25.615  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Started DemoApplication in 1.169 seconds (JVM running for 1.817)
+2020-09-17 14:30:25.617  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Info log
+2020-09-17 14:30:59.544  INFO LAPTOP-GTLK6Q6C --- [on(9)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-17 14:30:59.569  INFO LAPTOP-GTLK6Q6C --- [on(9)-127.0.0.1] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 14:31:02.960  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 18100 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 14:31:02.967  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 14:31:03.583  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-09-17 14:31:03.596  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 14:31:03.596  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-09-17 14:31:03.597  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 14:31:03.779  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.j.s.TldScanner                       : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-09-17 14:31:03.787  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.C.[.[.[/test]                    : Initializing Spring embedded WebApplicationContext
+2020-09-17 14:31:03.787  INFO LAPTOP-GTLK6Q6C --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 788 ms
+2020-09-17 14:31:03.894  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 14:31:03.985  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 14:31:04.010  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path '/test'
+2020-09-17 14:31:04.020  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Started DemoApplication in 1.266 seconds (JVM running for 1.915)
+2020-09-17 14:31:04.022  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Info log
+2020-09-17 14:32:44.801  INFO LAPTOP-GTLK6Q6C --- [n(10)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-17 14:32:44.833  INFO LAPTOP-GTLK6Q6C --- [n(10)-127.0.0.1] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 14:32:47.561  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 1464 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 14:32:47.567  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 14:32:48.096  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-09-17 14:32:48.106  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 14:32:48.107  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-09-17 14:32:48.108  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 14:32:48.268  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.j.s.TldScanner                       : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-09-17 14:32:48.275  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.C.[.[.[/test]                    : Initializing Spring embedded WebApplicationContext
+2020-09-17 14:32:48.276  INFO LAPTOP-GTLK6Q6C --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 680 ms
+2020-09-17 14:32:48.378  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 14:32:48.468  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 14:32:48.494  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path '/test'
+2020-09-17 14:32:48.501  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Started DemoApplication in 1.126 seconds (JVM running for 1.802)
+2020-09-17 14:32:48.503  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Info log
+2020-09-17 14:33:00.383  INFO LAPTOP-GTLK6Q6C --- [on(6)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-17 14:33:00.418  INFO LAPTOP-GTLK6Q6C --- [on(6)-127.0.0.1] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 14:33:03.296  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 14368 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 14:33:03.302  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 14:33:03.832  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-09-17 14:33:03.843  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 14:33:03.844  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-09-17 14:33:03.844  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 14:33:04.012  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.j.s.TldScanner                       : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-09-17 14:33:04.020  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.C.[.[.[/test]                    : Initializing Spring embedded WebApplicationContext
+2020-09-17 14:33:04.020  INFO LAPTOP-GTLK6Q6C --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 686 ms
+2020-09-17 14:33:04.128  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 14:33:04.215  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 14:33:04.241  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path '/test'
+2020-09-17 14:33:04.249  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Started DemoApplication in 1.164 seconds (JVM running for 1.817)
+2020-09-17 14:33:04.251  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Info log
+2020-09-17 14:37:46.675  INFO LAPTOP-GTLK6Q6C --- [n(15)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-17 14:37:46.711  INFO LAPTOP-GTLK6Q6C --- [n(15)-127.0.0.1] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 14:37:49.428  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 16540 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 14:37:49.435  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 14:37:50.006  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-09-17 14:37:50.016  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 14:37:50.018  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-09-17 14:37:50.018  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 14:37:50.182  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.j.s.TldScanner                       : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-09-17 14:37:50.191  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.C.[.[.[/test]                    : Initializing Spring embedded WebApplicationContext
+2020-09-17 14:37:50.191  INFO LAPTOP-GTLK6Q6C --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 725 ms
+2020-09-17 14:37:50.329  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 14:37:50.452  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 14:37:50.486  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path '/test'
+2020-09-17 14:37:50.495  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Started DemoApplication in 1.259 seconds (JVM running for 1.906)
+2020-09-17 14:37:50.498  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Info log
+2020-09-17 14:39:08.715  INFO LAPTOP-GTLK6Q6C --- [n(12)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-17 14:39:08.746  INFO LAPTOP-GTLK6Q6C --- [n(12)-127.0.0.1] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 14:39:11.767  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 12224 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 14:39:11.773  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 14:39:12.317  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-09-17 14:39:12.329  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 14:39:12.330  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-09-17 14:39:12.330  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 14:39:12.502  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.j.s.TldScanner                       : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-09-17 14:39:12.510  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.C.[.[.[/test]                    : Initializing Spring embedded WebApplicationContext
+2020-09-17 14:39:12.510  INFO LAPTOP-GTLK6Q6C --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 708 ms
+2020-09-17 14:39:12.619  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 14:39:12.710  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 14:39:12.737  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path '/test'
+2020-09-17 14:39:12.745  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Started DemoApplication in 1.186 seconds (JVM running for 1.919)
+2020-09-17 14:39:12.746  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Info log
+2020-09-17 14:39:40.463  INFO LAPTOP-GTLK6Q6C --- [on(6)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-17 14:39:40.499  INFO LAPTOP-GTLK6Q6C --- [on(6)-127.0.0.1] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 14:39:43.955  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 15904 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 14:39:43.962  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 14:39:44.503  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-09-17 14:39:44.514  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 14:39:44.514  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-09-17 14:39:44.515  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 14:39:44.690  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.j.s.TldScanner                       : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-09-17 14:39:44.699  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.C.[.[.[/test]                    : Initializing Spring embedded WebApplicationContext
+2020-09-17 14:39:44.700  INFO LAPTOP-GTLK6Q6C --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 708 ms
+2020-09-17 14:39:44.815  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 14:39:44.909  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 14:39:44.935  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path '/test'
+2020-09-17 14:39:44.943  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Started DemoApplication in 1.173 seconds (JVM running for 1.914)
+2020-09-17 14:39:44.945  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Info log
+2020-09-17 14:41:38.018  INFO LAPTOP-GTLK6Q6C --- [n(12)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-17 14:41:38.050  INFO LAPTOP-GTLK6Q6C --- [n(12)-127.0.0.1] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 14:41:42.490  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 13988 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 14:41:42.496  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 14:41:43.056  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-09-17 14:41:43.066  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 14:41:43.067  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-09-17 14:41:43.067  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 14:41:43.254  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.j.s.TldScanner                       : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-09-17 14:41:43.264  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.C.[.[.[/test]                    : Initializing Spring embedded WebApplicationContext
+2020-09-17 14:41:43.265  INFO LAPTOP-GTLK6Q6C --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 738 ms
+2020-09-17 14:41:43.379  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 14:41:43.475  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 14:41:43.501  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path '/test'
+2020-09-17 14:41:43.509  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Started DemoApplication in 1.207 seconds (JVM running for 1.844)
+2020-09-17 14:41:43.511  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Info log
+2020-09-17 14:42:00.276  INFO LAPTOP-GTLK6Q6C --- [on(6)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-17 14:42:00.311  INFO LAPTOP-GTLK6Q6C --- [on(6)-127.0.0.1] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 14:42:03.811  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 2820 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 14:42:03.818  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 14:42:04.383  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-09-17 14:42:04.393  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 14:42:04.394  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-09-17 14:42:04.394  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 14:42:04.563  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.j.s.TldScanner                       : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-09-17 14:42:04.572  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.C.[.[.[/test]                    : Initializing Spring embedded WebApplicationContext
+2020-09-17 14:42:04.572  INFO LAPTOP-GTLK6Q6C --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 722 ms
+2020-09-17 14:42:04.684  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 14:42:04.782  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 14:42:04.808  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path '/test'
+2020-09-17 14:42:04.816  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Started DemoApplication in 1.189 seconds (JVM running for 1.867)
+2020-09-17 14:42:04.818  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Info log
+2020-09-17 14:45:40.569  INFO LAPTOP-GTLK6Q6C --- [n(14)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-17 14:45:40.602  INFO LAPTOP-GTLK6Q6C --- [n(14)-127.0.0.1] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-09-17 14:45:43.809  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Starting DemoApplication on LAPTOP-GTLK6Q6C with PID 18040 (C:\Users\Admin\Documents\SpringToolworkspace\demo\target\classes started by Admin in C:\Users\Admin\Documents\SpringToolworkspace\demo)
+2020-09-17 14:45:43.815  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : No active profile set, falling back to default profiles: default
+2020-09-17 14:45:44.361  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat initialized with port(s): 8080 (http)
+2020-09-17 14:45:44.371  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2020-09-17 14:45:44.372  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2020-09-17 14:45:44.372  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.37]
+2020-09-17 14:45:44.541  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.j.s.TldScanner                       : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2020-09-17 14:45:44.549  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.c.C.[.[.[/demo]                    : Initializing Spring embedded WebApplicationContext
+2020-09-17 14:45:44.550  INFO LAPTOP-GTLK6Q6C --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 704 ms
+2020-09-17 14:45:44.658  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.s.c.ThreadPoolTaskExecutor           : Initializing ExecutorService 'applicationTaskExecutor'
+2020-09-17 14:45:44.754  INFO LAPTOP-GTLK6Q6C --- [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2020-09-17 14:45:44.780  INFO LAPTOP-GTLK6Q6C --- [           main] o.s.b.w.e.t.TomcatWebServer              : Tomcat started on port(s): 8080 (http) with context path '/demo'
+2020-09-17 14:45:44.788  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Started DemoApplication in 1.156 seconds (JVM running for 1.807)
+2020-09-17 14:45:44.789  INFO LAPTOP-GTLK6Q6C --- [           main] c.e.d.DemoApplication                    : Info log
+2020-09-17 14:48:01.015  INFO LAPTOP-GTLK6Q6C --- [nio-8080-exec-2] o.a.c.c.C.[.[.[/demo]                    : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-09-17 14:48:01.015  INFO LAPTOP-GTLK6Q6C --- [nio-8080-exec-2] o.s.w.s.DispatcherServlet                : Initializing Servlet 'dispatcherServlet'
+2020-09-17 14:48:01.022  INFO LAPTOP-GTLK6Q6C --- [nio-8080-exec-2] o.s.w.s.DispatcherServlet                : Completed initialization in 6 ms
+2020-09-17 14:48:31.841  INFO LAPTOP-GTLK6Q6C --- [n(12)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2020-09-17 14:48:31.873  INFO LAPTOP-GTLK6Q6C --- [n(12)-127.0.0.1] o.s.s.c.ThreadPoolTaskExecutor           : Shutting down ExecutorService 'applicationTaskExecutor'
